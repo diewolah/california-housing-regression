@@ -1,0 +1,28 @@
+# Fichiers et dossiers R
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+
+# Fichiers temporaires de RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# Fichiers de log et cache
+*.log
+*.tmp
+*.out
+
+# Dossiers de résultats ou exports
+output/
+plots/
+figures/
+
+# Fichiers CSV ou datasets lourds (optionnel si tu ne veux pas les pousser)
+*.tsv
+*.txt
+
+# Fichiers de packages ou dépendances
+packrat/
+renv/
