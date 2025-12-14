@@ -8,6 +8,10 @@ Le dataset contient des variables quantitatives (ex: `median_income`, `total_roo
 
 
 ---
+## Rapport
+
+Rapport final (PDF) : `california_housing_regression.pdf`
+
 
 ## Technologies
 
