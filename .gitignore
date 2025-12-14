@@ -14,10 +14,7 @@
 *.tmp
 *.out
 
-# Dossiers de résultats ou exports
-output/
-plots/
-figures/
+
 
 # Fichiers CSV ou datasets lourds (optionnel si tu ne veux pas les pousser)
 *.tsv
